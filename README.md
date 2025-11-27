@@ -1,0 +1,2 @@
+# Zhihuishu_Paste_Unlock
+破解智慧树问答输入不能粘贴的脚本
